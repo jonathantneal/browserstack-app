@@ -1,10 +1,10 @@
 # BrowserStack App
 
-<img align="right" width="256" height="256" src="https://raw.githubusercontent.com/jonathantneal/browserstack-app/master/assets/icon.png" alt="BrowserStack logo">
+<img align="right" width="128" height="128" src="https://raw.githubusercontent.com/jonathantneal/browserstack-app/master/assets/icon.png" alt="BrowserStack logo">
 
 [BrowserStack][] client for Windows, Mac, and Linux. Uses [nw.js][].
 
-This project is not affiliated with [BrowserStack][]. It is nothing more than a wrapper to sandbox your development.
+This project is not currently affiliated with [BrowserStack][].
 
 ## Download
 
