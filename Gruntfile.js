@@ -7,7 +7,7 @@ module.exports = function(grunt) {
 				},
 				macIcns: './assets/icon.icns',
 				winIco: './assets/icon.ico',
-				platforms: ['osx64', 'win64'],
+				platforms: ['linux64', 'osx64', 'win64'],
 				version: '0.12.2',
 			},
 			src: './source/**/*',

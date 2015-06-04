@@ -12,6 +12,8 @@ This project is entirely inspired by but not currently affiliated with BrowserSt
 
 [Windows 64-bit][win64]
 
+[Linux 64-bit][linux64]
+
 ## Features
 
 ![Screenshot](https://raw.githubusercontent.com/jonathantneal/browserstack-app/master/assets/screenshot.png)
@@ -54,5 +56,6 @@ If you’re a developer who enjoys this project, I could use help developing the
 [browsers]: https://www.browserstack.com/list-of-browsers-and-platforms?product=live
 [mobile-emulators]: https://www.browserstack.com/list-of-browsers-and-platforms?product=live#ios
 [developer-tools]: https://www.browserstack.com/developer-tools
+[linux]: https://github.com/jonathantneal/browserstack-app/releases/download/0.1.1/BrowserStack.linux64.zip
 [osx64]: https://github.com/jonathantneal/browserstack-app/releases/download/0.1.1/BrowserStack.osx64.zip
 [win64]: https://github.com/jonathantneal/browserstack-app/releases/download/0.1.1/BrowserStack.win64.zip
