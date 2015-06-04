@@ -1,0 +1,15 @@
+{
+	"main": "index.html",
+	"name": "BrowserStack",
+	"description": "Test your website for cross browser compatibility on real browsers.",
+	"version": "0.1.1",
+	"keywords": [ "browserstack", "node-webkit" ],
+	"window": {
+		"title": "BrowserStack",
+		"toolbar": false,
+		"frame": true,
+		"width": 1000,
+		"height": 800
+	},
+	"inject-js-start": "script.js"
+}

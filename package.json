@@ -1,0 +1,28 @@
+{
+	"name": "browserstack-app",
+	"description": "Builds a standalone executable for BrowserStack.",
+	"version": "0.1.1",
+	"homepage": "https://github.com/jonathan/browserstack-app",
+	"author": {
+		"name": "Jonathan Neal",
+		"email": "jonathantneal@hotmail.com",
+		"url": "http://jonathantneal.com/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jonathan/browserstack-app.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jonathan/browserstack-app/issues"
+	},
+	"licenses": [
+		{
+			"type": "CC0",
+			"url": "https://github.com/jonathan/browserstack-app/blob/master/LICENSE.md"
+		}
+	],
+	"devDependencies": {
+		"grunt": "latest",
+		"grunt-node-webkit-builder": "latest"
+	}
+}
