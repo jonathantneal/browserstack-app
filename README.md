@@ -12,17 +12,43 @@ This project is not affiliated with [BrowserStack][]. It is nothing more than a 
 
 ## Features
 
-- Sandboxed application.
-- Resize-able and fullscreen-able.
-- Everything BrowserStack already does.
+### Real Browsers
 
-## Desired features
+No testers or fake browsers. Test in real browsers including Internet Explorer 6, 7, 8, 9, 10 and 11. [View a complete list of browsers][browsers]
 
-- Launch individual URLs from the menu or command line.
-- Switch browsers from the menu or command line.
-- Size the window from a list of common presets from the menu or command line.
+### Official mobile emulators
+
+Official iOS, Android and Opera mobile and tablet emulators help you test across a large range of devices. [View a complete list of mobile emulators][mobile-emulators]
+
+### Pre-installed developer tools
+
+For quick cross-browser testing and debugging. [View a complete list of developer tools][developer-tools]
+
+### Superfast, cloud-based access
+
+No installation required. BrowserStacks’ Cloud setup ensures fast access to remote browsers.
+
+### Multiple desktop OS
+
+Test on multiple flavors of Windows and Mac OSX Operating systems.
+
+### Independent application
+
+Use BrowserStack as a standalone application.
+
+--- 
+
+If you’re a developer who enjoys this project, I could use help developing the following features: 
+
+- Integrating the local testing extension to test private and internal servers.
+- Support for launching individual URLs from the menu or command line.
+- Support for switching browser, version, or desktop OS from the menu or command line.
+- Support for resizing the window from a list of common presets from the menu or command line.
 
 [BrowserStack]: https://browserstack.com/
 [nw.js]: https://github.com/nwjs/nw.js
+[browsers]: https://www.browserstack.com/list-of-browsers-and-platforms?product=live
+[mobile-emulators]: https://www.browserstack.com/list-of-browsers-and-platforms?product=live#ios
+[developer-tools]: https://www.browserstack.com/developer-tools
 [osx64]: https://github.com/jonathantneal/browserstack-app/releases/download/0.1.1/BrowserStack.osx64.zip
 [win64]: https://github.com/jonathantneal/browserstack-app/releases/download/0.1.1/BrowserStack.win64.zip
