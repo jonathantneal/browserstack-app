@@ -4,7 +4,7 @@
 
 [BrowserStack][] client for Windows, Mac, and Linux. Uses [nw.js][].
 
-This project is not currently affiliated with [BrowserStack][].
+This project is entirely inspired by but not currently affiliated with [BrowserStack][].
 
 ## Download
 
