@@ -2,7 +2,7 @@
 
 <img align="right" width="128" height="128" src="https://raw.githubusercontent.com/jonathantneal/browserstack-app/master/assets/icon.png" alt="BrowserStack logo">
 
-[BrowserStack][] client for Windows, Mac, and Linux, powered by [nw.js][].
+A [BrowserStack][] client for Windows, Mac, and Linux, powered by [nw.js][].
 
 This project is entirely inspired by but not currently affiliated with BrowserStack.
 
