@@ -8,13 +8,13 @@ This project is entirely inspired by but not currently affiliated with BrowserSt
 
 ## Download
 
-![Screenshot](https://raw.githubusercontent.com/jonathantneal/browserstack-app/master/assets/screenshot.png)
-
 [Mac OSX 64-bit][osx64]
 
 [Windows 64-bit][win64]
 
 ## Features
+
+![Screenshot](https://raw.githubusercontent.com/jonathantneal/browserstack-app/master/assets/screenshot.png)
 
 ### Real Browsers
 
